@@ -1,5 +1,5 @@
 # Attiny-1614-development-board released under GPL V3
-Easy to use development board with serial to USB programmer using megaTinyCore for Arduino.
+Easy to use, development board with serial to USB programmer using megaTinyCore for Arduino.
 To use the board in Arduino please follow the core intructions
 https://github.com/SpenceKonde/megaTinyCore
 For the CH340 drivers please download:
